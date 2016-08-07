@@ -46,3 +46,5 @@ Sistema automatizado de encuestas
 
 - `maquetado` 
     >Aquí van todos los archivos de maquetados del sitio principal , imagenes, bosquejos, etc...
+
+ **Rogelio Fuentes**
