@@ -24,7 +24,7 @@ Sistema automatizado de encuestas
         >Aquí van las secciones del panel administrativo que sean utilizadas en toda la página. Por ejemplo: menús, cabeceras, footer, importado de librerias u hojas de estilos, etc..
         
     - `maquetado` 
-        >Aquí van todos los archivos de maquetados del panel administrativo , imagenes, bosquejos, etc...]
+        >Aquí van todos los archivos de maquetados del panel administrativo , imagenes, bosquejos, etc...
         
 - `css` 
     >Aquí va el código css que será utilizado en el sitio principal
